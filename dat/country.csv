@@ -1,0 +1,114 @@
+,region,country,HDI,trust,demo,HDI_cat
+1,Southern Europe,Albania,0.749,51.2,5.67,M
+2,Northern Africa,Algeria,0.713,38.6,3.83,M
+4,South America,Argentina,0.811,40.4,6.84,H
+5,Western Asia,Armenia,0.729,21.2,4.09,M
+6,Oceania,Australia,0.938,103.6,9.22,H
+7,Western Europe,Austria,0.895,70.2,8.62,H
+8,Western Asia,Azerbaijan,0.734,32.8,3.15,M
+9,Southern Asia,Bangladesh,0.515,47.7,5.86,L
+10,Eastern Europe,Belarus,0.793,72.7,3.04,M
+11,Western Europe,Belgium,0.897,63.0,8.05,H
+12,Western Africa,Benin,0.436,56.2,6.0,L
+13,South America,Bolivia (Plurinational State of),0.675,48.8,5.84,M
+14,Southern Europe,Bosnia and Herzegovina,0.735,32.4,5.11,M
+15,Southern Africa,Botswana,0.634,12.3,7.85,L
+16,South America,Brazil,0.73,17.5,7.12,M
+17,Eastern Europe,Bulgaria,0.782,50.9,6.72,M
+18,Western Africa,Burkina Faso,0.343,33.6,3.52,L
+20,South-Eastern Asia,Cambodia,0.543,15.6,4.96,L
+22,Northern America,Canada,0.911,85.9,9.08,H
+25,South America,Chile,0.819,27.2,7.54,H
+26,Eastern Asia,China,0.699,125.1,3.0,M
+27,South America,Colombia,0.719,8.9,6.63,M
+30,Central America,Costa Rica,0.773,48.9,8.1,M
+32,Southern Europe,Croatia,0.805,38.7,6.93,H
+34,Eastern Europe,Czech Republic,0.873,48.8,8.19,H
+35,Northern Europe,Denmark,0.901,131.9,9.52,H
+36,Caribbean,Dominican Republic,0.702,74.7,6.49,M
+37,South America,Ecuador,0.724,14.5,5.78,M
+38,Northern Africa,Egypt. Arab. Rep.,0.662,43.0,4.56,L
+39,Central America,El Salvador,0.68,60.4,6.47,M
+41,Eastern Africa,Ethiopia,0.396,55.2,3.72,L
+42,Northern Europe,Finland,0.892,117.5,9.06,H
+43,Western Europe,France,0.893,37.9,7.88,H
+46,Western Asia,Georgia,0.745,38.2,5.53,M
+47,Western Europe,Germany,0.92,90.8,8.34,H
+48,Western Africa,Ghana,0.558,10.0,6.02,L
+49,Southern Europe,Greece,0.86,54.6,7.65,H
+50,Central America,Guatemala,0.581,51.9,5.88,L
+54,Central America,Honduras,0.632,47.0,5.84,L
+55,Eastern Asia,Hong Kong SAR (China),0.906,82.4,6.42,H
+56,Eastern Europe,Hungary,0.831,44.8,6.96,H
+57,Southern Asia,India,0.554,52.5,7.52,L
+58,South-Eastern Asia,Indonesia,0.629,16.9,6.76,L
+59,Southern Asia,Iran (Islamic Republic of),0.742,21.8,1.98,M
+60,Western Asia,Iraq,0.59,66.7,4.1,L
+61,Northern Europe,Ireland,0.916,72.1,8.56,H
+62,Western Asia,Israel,0.9,48.3,7.53,H
+63,Southern Europe,Italy,0.881,60.8,7.74,H
+65,Eastern Asia,Japan,0.912,79.1,8.08,H
+66,Western Asia,Jordan,0.7,26.4,3.76,M
+67,Central Asia,Kazakhstan,0.754,76.7,2.95,M
+68,Eastern Africa,Kenya,0.519,20.0,4.71,L
+70,Eastern Asia,Korea. Republic,0.909,53.5,8.13,H
+72,Western Asia,Kuwait,0.79,59.2,3.78,M
+73,Central Asia,Kyrgyzstan,0.622,77.2,4.69,L
+75,Northern Europe,Latvia,0.814,35.9,7.05,H
+76,Western Asia,Lebanon,0.745,29.5,5.05,M
+77,Southern Africa,Lesotho,0.461,32.7,6.66,L
+79,Northern Africa,Libya,0.769,25.6,5.15,M
+80,Northern Europe,Lithuania,0.818,52.8,7.24,H
+81,Southern Europe,Macedonia. FYR,0.74,29.5,6.16,M
+82,Eastern Africa,Madagascar,0.483,65.6,3.93,L
+83,Eastern Africa,Malawi,0.418,14.9,6.08,L
+84,South-Eastern Asia,Malaysia,0.769,17.0,6.41,M
+85,Western Africa,Mali,0.344,44.8,5.12,L
+87,Central America,Mexico,0.775,25.0,6.9,M
+88,Eastern Europe,Moldova. Rep.,0.66,36.7,6.32,L
+89,Eastern Asia,Mongolia,0.675,21.4,6.35,M
+90,Northern Africa,Morocco,0.591,26.2,4.07,L
+91,Eastern Africa,Mozambique,0.327,56.0,4.88,L
+93,Southern Africa,Namibia,0.608,57.8,6.24,L
+95,Western Europe,Netherlands,0.921,134.1,8.99,H
+96,Oceania,New Zealand,0.919,113.2,9.26,H
+97,Central America,Nicaragua,0.599,46.1,5.56,L
+99,Western Africa,Nigeria,0.471,30.0,3.77,L
+100,Northern Europe,Norway,0.955,148.0,9.93,H
+102,Southern Asia,Pakistan,0.515,48.4,4.57,L
+103,Western Asia,Palestinian Territories,0.67,42.4,4.8,L
+104,Central America,Panama,0.78,45.9,7.08,M
+106,South America,Paraguay,0.669,22.7,6.26,L
+107,South America,Peru,0.741,17.9,6.47,M
+108,South-Eastern Asia,Philippines,0.654,6.8,6.3,L
+109,Eastern Europe,Poland,0.821,46.6,7.12,H
+110,Southern Europe,Portugal,0.816,21.9,7.92,H
+112,Western Asia,Qatar,0.834,42.9,3.18,H
+113,Eastern Europe,Romania,0.786,16.3,6.54,M
+114,Eastern Europe,Russian Federation,0.788,61.6,3.74,M
+115,Eastern Africa,Rwanda,0.434,33.2,3.36,L
+116,Western Asia,Saudi Arabia,0.782,105.8,1.71,M
+117,Western Africa,Senegal,0.47,54.2,6.09,L
+118,Southern Europe,Serbia,0.769,38.2,6.33,M
+120,South-Eastern Asia,Singapore,0.895,74.8,5.88,H
+121,Eastern Europe,Slovak Republic,0.84,33.4,7.35,H
+122,Southern Europe,Slovenia,0.892,41.8,7.88,H
+124,Southern Africa,South Africa,0.629,47.1,7.79,L
+126,Southern Europe,Spain,0.885,41.0,8.02,H
+129,Northern Europe,Sweden,0.916,122.9,9.73,H
+130,Western Europe,Switzerland,0.913,107.4,9.09,H
+134,Eastern Africa,Tanzania (United Republic),0.476,27.6,5.88,L
+135,South-Eastern Asia,Thailand,0.69,65.4,6.55,M
+137,Northern Africa,Tunisia,0.712,34.0,5.67,M
+138,Western Asia,Turkey,0.722,10.2,5.76,M
+140,Eastern Africa,Uganda,0.456,33.8,5.16,L
+141,Eastern Europe,Ukraine,0.74,52.8,5.91,M
+143,Northern Europe,United Kingdom,0.875,61.7,8.21,H
+144,Northern America,United States of America,0.937,70.5,8.11,H
+145,South America,Uruguay,0.792,37.1,8.17,M
+146,Central Asia,Uzbekistan,0.654,29.4,1.72,L
+147,South America,Venezuela (Bolivarian Republic of),0.748,48.5,5.15,M
+148,South-Eastern Asia,Viet Nam,0.617,104.1,2.89,L
+149,Western Asia,Yemen,0.458,81.7,3.12,L
+150,Eastern Africa,Zambia,0.448,28.1,6.26,L
+151,Eastern Africa,Zimbabwe,0.397,24.9,2.67,L
