@@ -1,6 +1,6 @@
 
 
-### <FONT color='red'> *This is a work in progress, all is in flux*</FONT>
+### <FONT color='red'> *status: draft finished, still needs editing *</FONT>
 
 # ggplot cookbook [<font size="3" color="blue">(_toc_)</font>](./cookbook/000_toc.ipynb)
 
